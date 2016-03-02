@@ -1,0 +1,25 @@
+body{
+
+	/*background-image: url('17682275-lady-justice.jpg');*/
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	
+}
+
+header h2{
+	border-bottom: 1px solid #CCC;
+	margin-bottom: 20px;
+}
+a{
+	text-decoration: none;
+	color: gray;
+}
+nav ul li{
+	list-style: none;
+	display: inline;
+	padding: 50px;
+}
+ul li{
+	padding: 20px;
+}
